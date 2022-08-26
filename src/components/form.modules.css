@@ -1,0 +1,7 @@
+label{ display: block; padding: 0 0 1rem;}
+
+label input{ display: block; width: 100%; box-sizing: border-box; padding: 0.8rem;
+    border-radius: 8px; border:1px solid #666}
+
+label select{ display: block; width: 100%; box-sizing: border-box; padding: 0.8rem;
+        border-radius: 8px; border:1px solid #666}    

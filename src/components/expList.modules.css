@@ -1,0 +1,10 @@
+.listExpenses{ padding: 0; margin: 0;}
+
+.listExpenses li{ list-style: none; border-bottom: 1px solid #ccc;}
+.listExpenses li span{ display: inline-block; width: 25%; font-size: 0.8rem; color: #666;
+    box-sizing: border-box; padding: 0.75rem;}
+
+.listExpenses li span.dateValue{ width: 20%;}
+.listExpenses li span.nameValue{ width: 40%; font-weight: bold;}
+.listExpenses li span.catValue{ width: 20%;}
+.listExpenses li span.priceValue{ width: 20%; text-align: right; font-weight: bold;}
